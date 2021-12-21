@@ -42,6 +42,7 @@ display: none;
   align-items: left;
   padding: 0 0 0 4px;
 height: 34px ;
+
 }
 .friendsOnline-2JkivW {
 display: none !important;
@@ -59,7 +60,7 @@ right: 0;
 .scroller-2FKFPG div[class="container-2duXBh"] { border-right: 0; border-bottom: 0; }
 .scroller-2FKFPG div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG justifyStart-2NDFzi alignCenter-1dQNNs noWrap-3jynv6 container-1qJFPO"] { border-top: 0; border-right: 0; border-bottom: 0; }
 .container-3baos1 {   margin-bottom: 0; border-radius: 0;}
-.header-2V-4Sw {   height: 42px; box-shadow: none; }
+.header-2V-4Sw {   height: 42px; box-shadow: none;  }
 .theme-dark .title-3qD0b- {   height: 42px; box-shadow: none;}
 .privateChannels-1nO12o>.searchBar-6Kv8R2 {   height: 42px; padding: 0 0; align-items: stretch; box-shadow: none;  opacity: 1 !important;}
 .theme-dark .searchBarInner-1_Tg2R, .searchBar-6Kv8R2 .search-bar-inner, .emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_ { border-radius: 0 !important; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important; padding: 0; }
@@ -670,7 +671,7 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 #bd-customcss-detach-container { width: 29.85%; }
 .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls { box-shadow: none;   }
 .scrolling-CehiO2>* { pointer-events: auto; }
-.container-2Rl01u .header-2V-4Sw:only-child, .theme-dark .title-3qD0b- { }
+.container-2Rl01u .header-2V-4Sw:only-child, .theme-dark .title-3qD0b- {  }
 .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC { border-radius: 0; }
 .roleInner-1C_Scc { height: 16px; }
 .layer-3QrUeG {transform: none !important; }
